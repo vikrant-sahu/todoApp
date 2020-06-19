@@ -25,6 +25,9 @@ Production mode:
 ```shell
 npm start
 ```
+```
+Welcome to the battle
+```
 
 Development (Webpack dev server) mode:
 
